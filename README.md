@@ -25,4 +25,4 @@ For the creation of the App the MIT AppInventor2 has been used. Detailed schemat
 
 # Experimentation
 
-You can see the project in action on the demostration video. Feel free to try this project on your own Arduino. 
+You can see the project in action on the demostration video. Feel free to try this project on your own Arduino!
